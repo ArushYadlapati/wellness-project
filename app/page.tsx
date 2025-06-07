@@ -24,7 +24,7 @@ export default function Home() {
             return {
                 stage: "Stage 2: Transitional",
                 description: "Death rate lowers because of improved nutrition sanitation and medical care, but birth rates stay high → rapid pop growth",
-                examples: ["Niger", "Mali", "Angola", "Democratic Republic of Congo"]
+                examples: ["Chad", "Sudan", "Bhutan"]
             };
         }
 
@@ -32,7 +32,7 @@ export default function Home() {
             return {
                 stage: "Stage 3: Industrial",
                 description: "Education + higher living standards lower birth rates → population starts to level off",
-                examples: ["Indonesia", "Brazil", "Mexico", "Indonesia"]
+                examples: ["Mexico", "Brazil", "China"]
             };
         }
 
@@ -40,7 +40,7 @@ export default function Home() {
             return {
                 stage: "Stage 4: Postindustrial",
                 description: "Low birth rates and low death rates are in equilibrium → stabilization of population or decline ",
-                examples: ["US", "UK", "Japan"]
+                examples: ["US", "Canada", "Japan"]
             };
         }
 
