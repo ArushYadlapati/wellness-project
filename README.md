@@ -1,3 +1,10 @@
+## Wellness Project
+Arush's 2024-2025 Wellness Project for APES (Mrs. Gore's class). 
+It is a Demographic Transition Model that changes based off the values of the sliders.
+It give out Net Growth % Rate, Doubling Time (70 / Net Growth % Rate), what Demographic Stage a country 
+with those stats would be, and examples of some of those countries.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
